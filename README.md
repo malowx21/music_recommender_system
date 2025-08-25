@@ -26,11 +26,7 @@ music_recommender_system/
 
 -NLTK for NLP (lyrics cleaning, tokenization, lemmatization, stopword removal)
 
--Scikit-learn for:
-
-    -TF-IDF vectorization of lyrics
-
-    -Cosine similarity calculation
+-Scikit-learn for TF-IDF vectorization of lyrics and Cosine similarity calculation
 
 -Flask for creating a simple web interface
 
@@ -78,11 +74,11 @@ This project aims to teach and practice:
 
 -This project can be enhanced by adding features such as:
 
-    Recommendations based on artist or genre
+Recommendations based on artist or genre
 
-    Similarity visualization
+Similarity visualization
 
-    Improved NLP preprocessing
+Improved NLP preprocessing
 
-    Error handling for song names not found in dataset
+Error handling for song names not found in dataset
     
